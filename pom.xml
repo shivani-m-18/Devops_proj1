@@ -5,15 +5,14 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-<<<<<<< HEAD
+
     <artifactId>newwwwwwwww</artifactId>
-=======
-<<<<<<< HEAD
+
+
     <artifactId>maven-eg</artifactId>
-=======
+
     <artifactId>pro2</artifactId>
->>>>>>> 7a7df051fb88874bf0fb32a79af5ded5a6b12d1e
->>>>>>> 16492e988d858932acf797f16de95ccd10e94d04
+
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -21,7 +20,7 @@
         <maven.compiler.target>21</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-<<<<<<< HEAD
+
     <build>
         <plugins>
         <plugin>
@@ -36,8 +35,7 @@
         </plugins>
     </build>
 
-=======
-<<<<<<< HEAD
+
     <build>
         <plugins>
             <plugin>
@@ -51,8 +49,5 @@
         </plugins>
     </build>
 
-=======
->>>>>>> 7a7df051fb88874bf0fb32a79af5ded5a6b12d1e
 
->>>>>>> 16492e988d858932acf797f16de95ccd10e94d04
 </project>
