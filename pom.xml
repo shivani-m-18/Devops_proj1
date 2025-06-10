@@ -5,7 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
+<<<<<<< HEAD
     <artifactId>maven-eg</artifactId>
+=======
+    <artifactId>pro2</artifactId>
+>>>>>>> 7a7df051fb88874bf0fb32a79af5ded5a6b12d1e
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -13,6 +17,7 @@
         <maven.compiler.target>21</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+<<<<<<< HEAD
     <build>
         <plugins>
             <plugin>
@@ -26,5 +31,7 @@
         </plugins>
     </build>
 
+=======
+>>>>>>> 7a7df051fb88874bf0fb32a79af5ded5a6b12d1e
 
 </project>
